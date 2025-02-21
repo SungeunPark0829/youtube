@@ -1,0 +1,326 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "XHZzxg3dh0WbWNcBDXPUZmUjOl0",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "amMMoqVXTrx8Sx8IwjsoWRxRLO4",
+            "id": "rI99kfqg9p8",
+            "snippet": {
+                "publishedAt": "2025-02-10T09:00:54Z",
+                "channelId": "UCch9Dmg5Juwp8MZGvAmAp4Q",
+                "title": "Teaser",
+                "description": "Main PV Upload\n2025/2/14\n6pm (GMT+9)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rI99kfqg9p8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rI99kfqg9p8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rI99kfqg9p8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rI99kfqg9p8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rI99kfqg9p8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "VIVINOS",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Teaser",
+                    "description": "Main PV Upload\n2025/2/14\n6pm (GMT+9)"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "G2aLXlj2FMlyKJMGe_07NfoIdzw",
+            "id": "ZdtIdbuGW04",
+            "snippet": {
+                "publishedAt": "2025-02-10T09:30:15Z",
+                "channelId": "UCnx4Fi4cmkLGDiFfZ311wWw",
+                "title": "아프냐? 나도 아프다오오오오고고곩!!!! 선생님 아파요ㅠㅠ #런닝맨",
+                "description": "🏃‍♂️ 런닝맨 739회 \n⏰ 매주 일요일 오후 6:20\n\n#런닝맨​ #Runningman #유재석 #지석진 #하하 #김종국 #양세찬 #송지효 #지예은",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZdtIdbuGW04/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZdtIdbuGW04/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZdtIdbuGW04/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZdtIdbuGW04/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZdtIdbuGW04/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "스브스 예능맛집",
+                "tags": [
+                    "김종국 송지효",
+                    "런닝맨",
+                    "런닝맨 게임",
+                    "런닝맨 다시보기",
+                    "런닝맨 최신",
+                    "런닝맨 하이라이트",
+                    "송지효",
+                    "양세찬",
+                    "유재석",
+                    "전소민",
+                    "지석진",
+                    "하하",
+                    "런닝맨 레전드",
+                    "런닝맨 먹방",
+                    "Running Man",
+                    "Yu Jaeseok",
+                    "Yoo Jaeseok",
+                    "Ji Seokjin",
+                    "Kim Jongguk",
+                    "Song Jihyo",
+                    "Jeon Somin",
+                    "Yang Sechan",
+                    "Ha Ha",
+                    "런닝맨 일요일",
+                    "런닝맨 지석진",
+                    "런닝맨 송지효",
+                    "지예은",
+                    "100년가게",
+                    "한의원",
+                    "침치료",
+                    "뿌엥좌",
+                    "한방치료"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "아프냐? 나도 아프다오오오오고고곩!!!! 선생님 아파요ㅠㅠ #런닝맨",
+                    "description": "🏃‍♂️ 런닝맨 739회 \n⏰ 매주 일요일 오후 6:20\n\n#런닝맨​ #Runningman #유재석 #지석진 #하하 #김종국 #양세찬 #송지효 #지예은"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "eYcS9ag0L3jy9XJTXrQIOGIRCc8",
+            "id": "6HQKO9iIXhY",
+            "snippet": {
+                "publishedAt": "2025-02-10T11:00:08Z",
+                "channelId": "UCvAewWPqooIUgQUsjhTmUVw",
+                "title": "폭설 때문에 숙이네 캠핑촌 폭망 위기!? 라미란과 함께한 캠핑촌 입주식 현장🏕️",
+                "description": "#캠핑 #먹방 #요리\n\n이 영상은 샤크닌자의 지원을 받아 제작되었습니다.\n\n숙이네 캠핑촌 입주자를 소개합니다🙌\n다식원장 라고수님, 드디어 집 생긴 성범이,\n브라친구들에 빠질 수 없는 바위 엄마까지!\n아직 입주할 텐트는 없지만 환영합니다ㅋㅋㅋ\n\n🍖 실땡이들을 위한 댓글 이벤트🍖\n오늘 영상을 보고 감상평을 댓글로 남겨주시면\n추첨을 통해 총 5분에게 '닌자 콤비'를 보내드립니다.\n\n✔ 경품: 닌자 콤비 멀티 쿠커 (5명)\n✔ 이벤트 기간: 2/10(월) – 2/16(일)\n✔ 당첨자 발표: 2/18(화) (더보기란, 개별 댓글로 안내)\n(*제세공과금은 당첨자 본인 부담이며, 자세한 내용은 더보기란 하단을 참고해주세요)\n\n🎁김숙티비 X 닌자 콤비 혜택! 🎁\n콤비 16% 할인! + 추가 포터블 블라스트 블렌더 증정까지!(랜덤 색상 발송)\n결제 시 할인코드 'ninja2025' 를 입력하면 할인이 적용됩니다.\nhttps://cosmoenc1.cafe24.com/product/list.html?cate_no=74\n\n#닌자콤비\n\n※ 댓글 이벤트 관련 안내사항\n-  5만 원 이상의 경품 당첨에 따른 제세공과금(22%)은 당첨자 본인 부담입니다.\n- 추후 제세공과금 처리에 필요한 정보 입력 및 제세공과금을 납부 완료한 당첨자 대상으로 경품 지급됩니다.\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6HQKO9iIXhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6HQKO9iIXhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6HQKO9iIXhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6HQKO9iIXhY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6HQKO9iIXhY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "김숙티비kimsookTV",
+                "tags": [
+                    "김숙",
+                    "kimsook",
+                    "갓숙",
+                    "비보티비",
+                    "비밀보장",
+                    "金淑",
+                    "comedian",
+                    "숙티비",
+                    "김숙유튜브",
+                    "캠핑",
+                    "닌자콤비",
+                    "닌자멀티쿠커",
+                    "닌자",
+                    "샤크닌자",
+                    "멀티쿠커",
+                    "쿠커",
+                    "마라탕",
+                    "양갈비",
+                    "옥수수면",
+                    "옥수수국수",
+                    "김치전",
+                    "마라",
+                    "마라샹궈",
+                    "겨울 캠핑",
+                    "설중 캠핑",
+                    "설중캠핑",
+                    "라미란",
+                    "텐트밖은",
+                    "라미란 캠핑",
+                    "라미란 여행",
+                    "라미란 예능",
+                    "김성범"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "폭설 때문에 숙이네 캠핑촌 폭망 위기!? 라미란과 함께한 캠핑촌 입주식 현장🏕️",
+                    "description": "#캠핑 #먹방 #요리\n\n이 영상은 샤크닌자의 지원을 받아 제작되었습니다.\n\n숙이네 캠핑촌 입주자를 소개합니다🙌\n다식원장 라고수님, 드디어 집 생긴 성범이,\n브라친구들에 빠질 수 없는 바위 엄마까지!\n아직 입주할 텐트는 없지만 환영합니다ㅋㅋㅋ\n\n🍖 실땡이들을 위한 댓글 이벤트🍖\n오늘 영상을 보고 감상평을 댓글로 남겨주시면\n추첨을 통해 총 5분에게 '닌자 콤비'를 보내드립니다.\n\n✔ 경품: 닌자 콤비 멀티 쿠커 (5명)\n✔ 이벤트 기간: 2/10(월) – 2/16(일)\n✔ 당첨자 발표: 2/18(화) (더보기란, 개별 댓글로 안내)\n(*제세공과금은 당첨자 본인 부담이며, 자세한 내용은 더보기란 하단을 참고해주세요)\n\n🎁김숙티비 X 닌자 콤비 혜택! 🎁\n콤비 16% 할인! + 추가 포터블 블라스트 블렌더 증정까지!(랜덤 색상 발송)\n결제 시 할인코드 'ninja2025' 를 입력하면 할인이 적용됩니다.\nhttps://cosmoenc1.cafe24.com/product/list.html?cate_no=74\n\n#닌자콤비\n\n※ 댓글 이벤트 관련 안내사항\n-  5만 원 이상의 경품 당첨에 따른 제세공과금(22%)은 당첨자 본인 부담입니다.\n- 추후 제세공과금 처리에 필요한 정보 입력 및 제세공과금을 납부 완료한 당첨자 대상으로 경품 지급됩니다.\n───────────────\n※ 본 콘텐츠 및 출연자와 무관한 댓글과 무분별한 욕설, 비난 등의 악의적인 댓글은 무통보 삭제될 수 있습니다."
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gq1ZFZfnnsQZ1eyjTqsuaxnn38c",
+            "id": "NDsO1LT_0lw",
+            "snippet": {
+                "publishedAt": "2025-02-08T17:00:00Z",
+                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+                "title": "I Spent 100 Hours Inside The Pyramids!",
+                "description": "I can’t believe we were allowed to do this\nSeason 2 of swarms is out now! You can even find a Gold Swarm worth $10,000! Grab yours now at Walmart, Target, Amazon, or top toy retailers worldwide. This video Includes promoted content in partnership with Moose Toys.\n\nSee Dr. Zahi Hawass LIVE in a city near you: https://www.hawasszahi.com/2025tour\n\nFilmed in Egypt at the Giza Pyramids, in collaboration with the Egypt Film Commission\nwww.egyptfilming.com\nMr. Ahmed S. Badawi\nMrs. Riham Elghazali\nMr. Abdallah Kamel\n\nThanks to the Ministry of Tourism and Antiquities. \n\nSpecial Thanks:\nLeslie Greif\nNia Samara Paine\nMostafa Lotfy\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NDsO1LT_0lw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NDsO1LT_0lw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NDsO1LT_0lw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NDsO1LT_0lw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NDsO1LT_0lw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MrBeast",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I Spent 100 Hours Inside The Pyramids!",
+                    "description": "I can’t believe we were allowed to do this\nSeason 2 of swarms is out now! You can even find a Gold Swarm worth $10,000! Grab yours now at Walmart, Target, Amazon, or top toy retailers worldwide. This video Includes promoted content in partnership with Moose Toys.\n\nSee Dr. Zahi Hawass LIVE in a city near you: https://www.hawasszahi.com/2025tour\n\nFilmed in Egypt at the Giza Pyramids, in collaboration with the Egypt Film Commission\nwww.egyptfilming.com\nMr. Ahmed S. Badawi\nMrs. Riham Elghazali\nMr. Abdallah Kamel\n\nThanks to the Ministry of Tourism and Antiquities. \n\nSpecial Thanks:\nLeslie Greif\nNia Samara Paine\nMostafa Lotfy\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TfvDl6oYg4_o_amt7ymo41iujX4",
+            "id": "SolktBqJs0k",
+            "snippet": {
+                "publishedAt": "2025-02-10T12:08:15Z",
+                "channelId": "UC9w-h_ciMmX64TcLRcb1xPg",
+                "title": "엄마의 마음을 아는 왕비 차주영, 쫓겨났던 후궁 이이담을 향한 배려 #원경 EP.11 | tvN 250210 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/r9u8qzpl\n\n남편 태종 이방원과 함께 권력을 쟁취한 원경왕후.\n왕과 왕비, 남편과 아내, 그 사이 감춰진 뜨거운 이야기\n\ntvN X TVING 오리지널 드라마 〈원경〉\n[월화] 저녁 8시 50분 tvN\n[월] 오후 2시 선공개 TVING\n\n#원경 #Wongyeong #TheQueenWhoCrowns\n#차주영 #이현욱 #이이담 #이시아\n#tvN #tvN에서봐 #스트리밍은TVING\n\n#티빙에서스트리밍",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SolktBqJs0k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SolktBqJs0k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SolktBqJs0k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SolktBqJs0k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SolktBqJs0k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tvN DRAMA",
+                "tags": [
+                    "TVING",
+                    "TheQueenWhoCrowns",
+                    "Wongyeong",
+                    "tvN",
+                    "tvNDRAMA",
+                    "원경",
+                    "월화드라마",
+                    "이시아",
+                    "이이담",
+                    "이현욱",
+                    "차주영",
+                    "티빙에서스트리밍"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "엄마의 마음을 아는 왕비 차주영, 쫓겨났던 후궁 이이담을 향한 배려 #원경 EP.11 | tvN 250210 방송",
+                    "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/r9u8qzpl\n\n남편 태종 이방원과 함께 권력을 쟁취한 원경왕후.\n왕과 왕비, 남편과 아내, 그 사이 감춰진 뜨거운 이야기\n\ntvN X TVING 오리지널 드라마 〈원경〉\n[월화] 저녁 8시 50분 tvN\n[월] 오후 2시 선공개 TVING\n\n#원경 #Wongyeong #TheQueenWhoCrowns\n#차주영 #이현욱 #이이담 #이시아\n#tvN #tvN에서봐 #스트리밍은TVING\n\n#티빙에서스트리밍"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        }
+    ],
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 5
+    }
+}
