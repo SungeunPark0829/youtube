@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"  # Vite 프로젝트 빌드 명령어
+  publish = "dist"  # Vite 빌드 결과물 폴더 (일반적으로 dist)
+
+[context.production.environment]
+  NODE_VERSION = "20"
